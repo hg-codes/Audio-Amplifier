@@ -1,0 +1,6 @@
+*.model TIP32	ako:NSC_5F	PNP()	; case TO-220
+.MODEL TIP32	    PNP(Is=51.23f Xti=3 Eg=1.11 Vaf=100 Bf=434.1 Ise=51.23f Ne=1.22
++   Ikf=.3883 Nk=.5544 Xtb=2.2 Br=55.47 Isc=51.23f Nc=1.205
++   Ikr=10.87 Rc=.3443 Cjc=136.9p Mjc=.3155 Vjc=.75 Fc=.5
++   Cje=179.9p Mje=.4294 Vje=.75 Tr=20.25n Tf=13.05n Itf=6.85
++   Xtf=1.573 Vtf=10 Rb=.1)
